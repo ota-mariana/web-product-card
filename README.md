@@ -2,7 +2,11 @@
 
 Application similar to a web page for purchasing a product with its respective information.
 
-### Languages and Tools used
+
+https://user-images.githubusercontent.com/91161589/216162886-03f90a13-9d63-46cf-a10a-f69593833e88.mp4
+
+
+### Languages and Technologies used
 
 - HTML
 - CSS
@@ -10,4 +14,4 @@ Application similar to a web page for purchasing a product with its respective i
 
 ### Project Status
 
-In progress...
+Completed project!
